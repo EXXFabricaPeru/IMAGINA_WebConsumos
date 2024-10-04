@@ -1,0 +1,17 @@
+export interface EstadoCuenta {
+    codCliente: string,
+      tipoDoc: string,
+      nomCliente: string,
+      nroDocumento: string,
+      fecEmision?: Date,
+      fecVencimiento?: Date,
+      original: number,
+      saldo: number,
+      originalUsd: number,
+      saldoUsd: number,
+      vendedor: string,
+      lineaCredito: number,
+      lineaDisponible: string,
+      diasVencidos: number,
+      tipoCambio: number,
+}

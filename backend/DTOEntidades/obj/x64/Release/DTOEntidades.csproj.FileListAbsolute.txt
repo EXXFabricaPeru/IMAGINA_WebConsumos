@@ -1,0 +1,24 @@
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\bin\x64\Release\DTOEntidades.dll
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\bin\x64\Release\DTOEntidades.pdb
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\obj\x64\Release\DTOEntidades.csproj.AssemblyReference.cache
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\obj\x64\Release\DTOEntidades.csproj.CoreCompileInputs.cache
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\obj\x64\Release\DTOEntidades.dll
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\obj\x64\Release\DTOEntidades.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DTOEntidades\bin\x64\Release\DTOEntidades.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DTOEntidades\bin\x64\Release\DTOEntidades.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DTOEntidades\obj\x64\Release\DTOEntidades.csproj.AssemblyReference.cache
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DTOEntidades\obj\x64\Release\DTOEntidades.csproj.CoreCompileInputs.cache
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DTOEntidades\obj\x64\Release\DTOEntidades.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DTOEntidades\obj\x64\Release\DTOEntidades.pdb
+C:\Desarrollo_Exxis\backend\DTOEntidades\bin\x64\Release\DTOEntidades.dll
+C:\Desarrollo_Exxis\backend\DTOEntidades\bin\x64\Release\DTOEntidades.pdb
+C:\Desarrollo_Exxis\backend\DTOEntidades\obj\x64\Release\DTOEntidades.csproj.AssemblyReference.cache
+C:\Desarrollo_Exxis\backend\DTOEntidades\obj\x64\Release\DTOEntidades.csproj.CoreCompileInputs.cache
+C:\Desarrollo_Exxis\backend\DTOEntidades\obj\x64\Release\DTOEntidades.dll
+C:\Desarrollo_Exxis\backend\DTOEntidades\obj\x64\Release\DTOEntidades.pdb
+C:\EXX_DEV\Consumos\backend\DTOEntidades\bin\x64\Release\DTOEntidades.dll
+C:\EXX_DEV\Consumos\backend\DTOEntidades\bin\x64\Release\DTOEntidades.pdb
+C:\EXX_DEV\Consumos\backend\DTOEntidades\obj\x64\Release\DTOEntidades.csproj.AssemblyReference.cache
+C:\EXX_DEV\Consumos\backend\DTOEntidades\obj\x64\Release\DTOEntidades.csproj.CoreCompileInputs.cache
+C:\EXX_DEV\Consumos\backend\DTOEntidades\obj\x64\Release\DTOEntidades.dll
+C:\EXX_DEV\Consumos\backend\DTOEntidades\obj\x64\Release\DTOEntidades.pdb

@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\EXX_DEV\\Consumos\\backend\\TomaPedidosApi\\TomaPedidosApi.csproj": {}
+  },
+  "projects": {
+    "C:\\EXX_DEV\\Consumos\\backend\\BOCNegocio\\BOCNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\EXX_DEV\\Consumos\\backend\\BOCNegocio\\BOCNegocio.csproj",
+        "projectName": "BOCNegocio",
+        "projectPath": "C:\\EXX_DEV\\Consumos\\backend\\BOCNegocio\\BOCNegocio.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\EXX_DEV\\Consumos\\backend\\DBCAccesoDatos\\DBCAccesoDatos.csproj": {
+                "projectPath": "C:\\EXX_DEV\\Consumos\\backend\\DBCAccesoDatos\\DBCAccesoDatos.csproj"
+              },
+              "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOEntidades.csproj": {
+                "projectPath": "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOEntidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\EXX_DEV\\Consumos\\backend\\DBCAccesoDatos\\DBCAccesoDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\EXX_DEV\\Consumos\\backend\\DBCAccesoDatos\\DBCAccesoDatos.csproj",
+        "projectName": "DBCAccesoDatos",
+        "projectPath": "C:\\EXX_DEV\\Consumos\\backend\\DBCAccesoDatos\\DBCAccesoDatos.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOEntidades.csproj": {
+                "projectPath": "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOEntidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOEntidades.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOEntidades.csproj",
+        "projectName": "DTOEntidades",
+        "projectPath": "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOEntidades.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\EXX_DEV\\Consumos\\backend\\TomaPedidosApi\\TomaPedidosApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\EXX_DEV\\Consumos\\backend\\TomaPedidosApi\\TomaPedidosApi.csproj",
+        "projectName": "TomaPedidosApi",
+        "projectPath": "C:\\EXX_DEV\\Consumos\\backend\\TomaPedidosApi\\TomaPedidosApi.csproj",
+        "packagesPath": "C:\\Users\\Consultor5\\.nuget\\packages\\",
+        "outputPath": "C:\\EXX_DEV\\Consumos\\backend\\TomaPedidosApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Consultor5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\EXX_DEV\\Consumos\\backend\\BOCNegocio\\BOCNegocio.csproj": {
+                "projectPath": "C:\\EXX_DEV\\Consumos\\backend\\BOCNegocio\\BOCNegocio.csproj"
+              },
+              "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOEntidades.csproj": {
+                "projectPath": "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOEntidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2022.12.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.Odbc": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.17, 7.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

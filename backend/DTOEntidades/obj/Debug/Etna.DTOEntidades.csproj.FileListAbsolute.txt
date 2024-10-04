@@ -1,0 +1,5 @@
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.DTOEntidades\bin\Debug\Etna.DTOEntidades.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.DTOEntidades\bin\Debug\Etna.DTOEntidades.pdb
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.DTOEntidades\obj\Debug\Etna.DTOEntidades.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.DTOEntidades\obj\Debug\Etna.DTOEntidades.pdb
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.DTOEntidades\obj\Debug\Etna.DTOEntidades.csprojResolveAssemblyReference.cache

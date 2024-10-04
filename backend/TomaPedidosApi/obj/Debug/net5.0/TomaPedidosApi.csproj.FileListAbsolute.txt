@@ -1,0 +1,95 @@
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\appsettings.Development.json
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\appsettings.json
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.exe
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.deps.json
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.runtimeconfig.json
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.runtimeconfig.dev.json
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\ref\TomaPedidosApi.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.AssemblyInfoInputs.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.AssemblyInfo.cs
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.csproj.CoreCompileInputs.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cs
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\staticwebassets\TomaPedidosApi.StaticWebAssets.Manifest.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\staticwebassets\TomaPedidosApi.StaticWebAssets.xml
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\scopedcss\bundle\TomaPedidosApi.styles.css
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.RazorTargetAssemblyInfo.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.csproj.CopyComplete
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\ref\TomaPedidosApi.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.genruntimeconfig.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\DBCAccesoDatos.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\DTOEntidades.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\Etna.BOCNegocio.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\Etna.BOCNegocio.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\Etna.BOCNegocio.dll.config
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\DTOEntidades.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\DBCAccesoDatos.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\DBCAccesoDatos.dll.config
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.csproj.AssemblyReference.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\TomaPedidosApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.csproj.AssemblyReference.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.AssemblyInfoInputs.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.AssemblyInfo.cs
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.csproj.CoreCompileInputs.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cs
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.pdb
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\appsettings.Development.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\appsettings.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.StaticWebAssets.xml
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.exe
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.deps.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.runtimeconfig.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.runtimeconfig.dev.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\TomaPedidosApi.pdb
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\System.Security.AccessControl.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\DBCAccesoDatos.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\DTOEntidades.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\Etna.BOCNegocio.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\Etna.BOCNegocio.pdb
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\Etna.BOCNegocio.dll.config
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\DTOEntidades.pdb
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\DBCAccesoDatos.pdb
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\Debug\net5.0\DBCAccesoDatos.dll.config
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\scopedcss\bundle\TomaPedidosApi.styles.css
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\staticwebassets\TomaPedidosApi.StaticWebAssets.Manifest.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\staticwebassets\TomaPedidosApi.StaticWebAssets.Pack.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\staticwebassets\msbuild.TomaPedidosApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\staticwebassets\msbuild.build.TomaPedidosApi.props
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TomaPedidosApi.props
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TomaPedidosApi.props
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.RazorTargetAssemblyInfo.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.csproj.CopyComplete
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\refint\TomaPedidosApi.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\TomaPedidosApi.genruntimeconfig.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\Debug\net5.0\ref\TomaPedidosApi.dll

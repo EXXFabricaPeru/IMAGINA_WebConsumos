@@ -1,0 +1,314 @@
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\appsettings.Development.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\appsettings.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.exe
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.deps.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.runtimeconfig.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.pdb
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.OpenApi.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Configuration.ConfigurationManager.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Drawing.Common.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Security.Permissions.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Windows.Extensions.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\freebsd\lib\net7.0\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\illumos\lib\net7.0\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\ios\lib\net7.0\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\linux\lib\net7.0\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\lib\net7.0\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\solaris\lib\net7.0\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\tvos\lib\net7.0\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\DTOEntidades.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Etna.BOCNegocio.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Etna.BOCNegocio.pdb
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Etna.BOCNegocio.dll.config
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\DTOEntidades.pdb
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.pdb
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.dll.config
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.csproj.AssemblyReference.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.AssemblyInfoInputs.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.AssemblyInfo.cs
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.csproj.CoreCompileInputs.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cs
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.TomaPedidosApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.build.TomaPedidosApi.props
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.TomaPedidosApi.props
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.buildTransitive.TomaPedidosApi.props
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.pack.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.build.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.development.json
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\scopedcss\bundle\TomaPedidosApi.styles.css
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.csproj.CopyComplete
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\refint\TomaPedidosApi.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.pdb
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.genruntimeconfig.cache
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\obj\x64\Release\net7.0\ref\TomaPedidosApi.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\HarfBuzzSharp.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\QuestPDF.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\SkiaSharp.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\SkiaSharp.HarfBuzz.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\DEV_EXX\TomaPedido\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\appsettings.Development.json
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\appsettings.json
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.exe
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.deps.json
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.runtimeconfig.json
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\HarfBuzzSharp.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.OpenApi.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\QuestPDF.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\SkiaSharp.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\SkiaSharp.HarfBuzz.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Configuration.ConfigurationManager.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Data.Odbc.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Drawing.Common.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Security.Permissions.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Windows.Extensions.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\freebsd\lib\net7.0\System.Data.Odbc.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\illumos\lib\net7.0\System.Data.Odbc.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\ios\lib\net7.0\System.Data.Odbc.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\linux\lib\net7.0\System.Data.Odbc.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\lib\net7.0\System.Data.Odbc.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\solaris\lib\net7.0\System.Data.Odbc.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\tvos\lib\net7.0\System.Data.Odbc.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Data.Odbc.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\DTOEntidades.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Etna.BOCNegocio.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Etna.BOCNegocio.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\Etna.BOCNegocio.dll.config
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\DTOEntidades.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.dll.config
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.csproj.AssemblyReference.cache
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.AssemblyInfoInputs.cache
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.AssemblyInfo.cs
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.csproj.CoreCompileInputs.cache
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cs
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cache
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.TomaPedidosApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.build.TomaPedidosApi.props
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.TomaPedidosApi.props
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.buildTransitive.TomaPedidosApi.props
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.pack.json
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.build.json
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.development.json
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\scopedcss\bundle\TomaPedidosApi.styles.css
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.csproj.CopyComplete
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\refint\TomaPedidosApi.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.genruntimeconfig.cache
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\TomaPedidosApi\obj\x64\Release\net7.0\ref\TomaPedidosApi.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\appsettings.Development.json
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\appsettings.json
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.exe
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.deps.json
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.runtimeconfig.json
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.pdb
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\HarfBuzzSharp.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.OpenApi.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\QuestPDF.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\SkiaSharp.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\SkiaSharp.HarfBuzz.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Data.Odbc.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Drawing.Common.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Security.Permissions.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Windows.Extensions.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\freebsd\lib\net7.0\System.Data.Odbc.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\illumos\lib\net7.0\System.Data.Odbc.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\ios\lib\net7.0\System.Data.Odbc.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\linux\lib\net7.0\System.Data.Odbc.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\lib\net7.0\System.Data.Odbc.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\solaris\lib\net7.0\System.Data.Odbc.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\tvos\lib\net7.0\System.Data.Odbc.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Data.Odbc.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\DTOEntidades.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Etna.BOCNegocio.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Etna.BOCNegocio.pdb
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\Etna.BOCNegocio.dll.config
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\DTOEntidades.pdb
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.pdb
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.dll.config
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.csproj.AssemblyReference.cache
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.AssemblyInfoInputs.cache
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.AssemblyInfo.cs
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.csproj.CoreCompileInputs.cache
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.build.json
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.development.json
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.TomaPedidosApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.build.TomaPedidosApi.props
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.TomaPedidosApi.props
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.buildTransitive.TomaPedidosApi.props
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.pack.json
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\scopedcss\bundle\TomaPedidosApi.styles.css
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedi.CD8DEAEA.Up2Date
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\refint\TomaPedidosApi.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.pdb
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.genruntimeconfig.cache
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\obj\x64\Release\net7.0\ref\TomaPedidosApi.dll
+C:\Desarrollo_Exxis\backend\TomaPedidosApi\bin\x64\Release\net7.0\libman.json
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\appsettings.Development.json
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\libman.json
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\appsettings.json
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.exe
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.deps.json
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.runtimeconfig.json
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\TomaPedidosApi.pdb
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\HarfBuzzSharp.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.OpenApi.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\QuestPDF.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\SkiaSharp.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\SkiaSharp.HarfBuzz.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Configuration.ConfigurationManager.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Data.Odbc.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Drawing.Common.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Security.Permissions.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\System.Windows.Extensions.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\freebsd\lib\net7.0\System.Data.Odbc.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\illumos\lib\net7.0\System.Data.Odbc.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\ios\lib\net7.0\System.Data.Odbc.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\linux\lib\net7.0\System.Data.Odbc.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\osx\lib\net7.0\System.Data.Odbc.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\solaris\lib\net7.0\System.Data.Odbc.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\tvos\lib\net7.0\System.Data.Odbc.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Data.Odbc.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\DTOEntidades.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\DTOEntidades.pdb
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.pdb
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\DBCAccesoDatos.dll.config
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.csproj.AssemblyReference.cache
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.AssemblyInfoInputs.cache
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.AssemblyInfo.cs
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.csproj.CoreCompileInputs.cache
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cs
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.MvcApplicationPartsAssemblyInfo.cache
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.build.json
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.development.json
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.TomaPedidosApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.build.TomaPedidosApi.props
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.TomaPedidosApi.props
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets\msbuild.buildTransitive.TomaPedidosApi.props
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\staticwebassets.pack.json
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\scopedcss\bundle\TomaPedidosApi.styles.css
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedi.CD8DEAEA.Up2Date
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\refint\TomaPedidosApi.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.pdb
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\TomaPedidosApi.genruntimeconfig.cache
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\obj\x64\Release\net7.0\ref\TomaPedidosApi.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\BOCNegocio.dll
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\BOCNegocio.pdb
+C:\EXX_DEV\Consumos\backend\TomaPedidosApi\bin\x64\Release\net7.0\BOCNegocio.dll.config

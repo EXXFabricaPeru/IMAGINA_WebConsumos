@@ -1,0 +1,115 @@
+<div class="header bg-gradient-gray py-7 py-lg-8">
+  <!-- <div class="container">
+    <div class="header-body text-center mb-7">
+      <div class="row justify-content-center">
+        <div class="col-lg-5 col-md-6">
+          
+        </div>
+      </div>
+    </div>
+  </div> -->
+  <!-- <div class="separator separator-bottom separator-skew zindex-100">
+    <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+      <polygon class="fill-default" points="2560 0 2560 100 0 100"></polygon>
+    </svg>
+  </div> -->
+</div>
+<!-- Page content -->
+<div class="container mt--8 pb-5" style="top: -80px !important; position: relative;">
+  <div class="row justify-content-center">
+    <div class="col-lg-5 col-md-7">
+      <div class="card bg-secondary shadow border-0" >        
+        <div class="card-body px-lg-5 py-lg-5">
+          <form role="form">
+            <div class="form-group" style="text-align: left;">
+              <h1>Inicio de Sesión</h1>
+            </div>
+            <br>
+            <div class="form-group" style="text-align: center;">
+              <!-- <img src="assets/img/brand/GK.jpg" style="height: 200px; width: 200px;" /> -->
+              <img src="assets/img/brand/imagina.jpg" style="height: 200px; width: 200px;">
+            </div>
+            <div class="form-group mb-3">
+              <div class="input-group input-group-alternative">
+                <div class="input-group-prepend" style="text-align: center;">
+                  <span class="input-group-text"><i class="ni ni-circle-08"></i></span>
+                </div>
+                <input class="form-control form-control-alternative" placeholder="Usuario" type="text" [(ngModel)]="user"  (keypress)="keyPress($event)">
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="input-group input-group-alternative">
+                <div class="input-group-prepend">
+                  <span class="input-group-text"><i class="ni ni-lock-circle-open"></i></span>
+                </div>
+                <input class="form-control form-control-alternative" placeholder="Password" type="password" [(ngModel)]="pass" (keypress)="keyPress($event)">
+              </div>
+            </div>
+            <div class="text-center">
+              <button type="button" class="btn btn-imagina my-4" (click)="validar()">Login</button>
+            </div>
+            <div class="text-center">
+              <a (click)="confirmDialog=true; flagExito=false; errorValidacion=false; msgError=''; userLost=''"  style="cursor: pointer; text-decoration:  underline; color: blue;" > <!-- style="cursor: pointer; color: blue;" -->
+                Olvide mi contraseña
+              </a>
+            </div>
+            <div class="form-group">
+              <div class="alert alert-danger" role="alert" *ngIf="errorValidacion">
+                <strong>Error!</strong> {{ msgError }} 
+              </div>    
+            </div>
+            <div class="form-group">
+              <div class="alert alert-success" role="alert" *ngIf="flagExito">
+                <strong></strong> {{ msgError }} 
+              </div>    
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br>
+  <div class="copyright text-center text-xl-center text-muted">
+    &copy; {{ test | date: "yyyy" }} <a href="https://exxis-group.com/" class="font-weight-bold ml-1" target="_blank">Exxis Group</a>
+  </div>
+</div>
+
+<div tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" [ngClass]="(confirmDialog) ? 'modal modalApp' : 'modal fade modal-md'">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+          <h5>Mensaje Sistema</h5>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-lg-12">
+            <label class="form-control-label">Ingrese su Usuario:</label>
+            <input type="text" id="txtId" class="form-control" [(ngModel)]="userLost">
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        
+        <button cButton class="btn btn-imagina" (click)="enviarOlvido()" style="width: 70px;">OK</button>
+      
+        <button cButton class="btn btn-imagina" (click)="confirmDialog=false" style="width: 70px;">Cerrar</button>
+          
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal Cargando ... -->
+<div tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" [ngClass]="(flagLoad) ? 'modal modalApp' : 'modal fade modal-md'">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">                  
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-lg-12" style="text-align: center !important;">
+            <img src="../../../assets/img/brand/load.gif" alt="Espera " style="max-width: 833px; vertical-align: middle !important;">
+          </div>
+        </div>
+      </div>                  
+    </div>
+  </div>
+</div>

@@ -1,0 +1,130 @@
+<!-- <link href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet" /> -->
+<!-- <link href="./jquery.multiselect.css" rel="stylesheet" /> -->
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="./jquery.multiselect.js"></script>
+
+<div class="header bg-gradient-gray pb-8 pt-5 pt-md-8">
+    <!-- <div class="container-fluid">
+        
+    </div> -->
+</div>
+<!-- Page content -->
+<div class="container-fluid mt--7">
+    <div class="row">      
+      <div class="col-xl-12 order-xl-1">
+        <div class="card bg-secondary shadow">
+          <div class="card-header bg-white border-0">
+            <div class="row align-items-center">
+              <div class="col-8">
+                <h3 class="mb-0">{{ _titulo }}</h3>
+              </div>
+              <div class="col-4 text-right">
+                <a (click)="guardarCliente()" class="btn btn-sm btn-imagina">Guardar</a>
+              </div>
+            </div>
+          </div>
+          <div class="card-body">
+            <form>
+              <!-- <h6 class="heading-small text-muted mb-4">User information</h6> -->
+              <div class="pl-lg-4">                
+                <div class="row">
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-user">Usuario</label>
+                      <input type="text" id="input-user" placeholder="Usuario" class="form-control form-control-alternative" />
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-password">Password</label>
+                      <input type="password" id="input-password" placeholder="Clave" class="form-control form-control form-control-alternative" />
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-vendedor">Empleado</label>
+                      <select name="" id="input-vendedor" class="form-control" >            
+                        <option value="">--Seleccione--</option>
+                        <option *ngFor="let empleado of listaVendedores" [value]="empleado.codigo" [selected]="empleado.codigo==codVendedorAsig" > {{ empleado.descripcion }} </option>            
+                      </select>
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-perfil">Perfil</label>
+                      <select id="input-perfil" class="form-control form-control-alternative" >            
+                        <option value="" selected>--Seleccione--</option>
+                        <option value="0">Administrador</option>
+                        <option value="1">Personal</option>                                        
+                      </select>
+                      <!-- <label class="form-control-label" for="input-lista-precio">Lista Precio</label>
+                      <select name="" id="input-lista-precio" class="form-control" >            
+                        <option value="">--Seleccione--</option>
+                        <option *ngFor="let listPrice of listaPriceList" [value]="listPrice.codigo" > {{ listPrice.descripcion }} </option>            
+                      </select> -->
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3">
+                      <div class="form-group">
+                        <label class="form-control-label" for="input-moneda">Moneda</label>
+                        <select name="" id="input-moneda" class="form-control" >            
+                            <option value="">--Seleccione--</option>
+                            <option *ngFor="let moneda of listaMoneda" [value]="moneda.codigo" > {{ moneda.descripcion }} </option>
+                        </select> 
+                      </div>
+                    </div>
+                    <!-- <div class="col-lg-3">
+                      <div class="form-group">
+                        <label class="form-control-label" for="input-compania">Compañia</label>
+                          <select id="input-compania" class="form-control form-control-alternative" >            
+                            <option value="" selected>--Seleccione--</option>
+                            <option *ngFor="let sucursal of listaSucursales" [value]="sucursal.codigo" > {{ sucursal.descripcion }} </option>            
+                          </select>
+                      </div>
+                    </div> -->
+                    <div class="col-lg-9">
+                      <div class="form-group">
+                        <label class="form-control-label" for="input-compania">Sucursal</label>
+                        <select multiple="multiple" 
+                                class="form-control select-sucursal"
+                                name="listaSucursales[]" 
+                                [disabled]="flagEnable">            
+                          <!-- <option value="" selected>--Seleccione--</option> -->
+                          <option *ngFor="let sucursal of listaSucursales" [value]="sucursal.codigo" [selected]="selectCategoria.includes(sucursal.codigo)?'selected':''" > {{ sucursal.descripcion }} </option>            
+                        </select>
+                      </div>
+                    </div>
+                </div>
+              </div>
+
+              <!-- Confirm Dialog -->
+              <div tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" [ngClass]="(confirmDialog) ? 'modal modalApp' : 'modal fade bd-example-modal-lg'">
+                <div class="modal-dialog modal-lg">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5>Mensaje Sistema</h5>
+                    </div>
+                    <div class="modal-body">
+                      <div class="row">
+                        <div class="col-lg-12">
+                          <span *ngIf="confirmDialog">
+                            <p>{{ msgError }}</p>
+                          </span>
+                        </div>                              
+                      </div>
+                    </div>
+                    <div class="modal-footer">
+                      <button class="btn btn-imagina" (click)="closeDialogConfirm()">OK</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </form>            
+          </div>
+        </div>
+      </div>
+    </div>
+</div>

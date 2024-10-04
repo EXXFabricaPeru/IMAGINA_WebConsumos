@@ -1,0 +1,39 @@
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\Etna.BOCNegocio.dll.config
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\Etna.BOCNegocio.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\Etna.BOCNegocio.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\DBCAccesoDatos.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\DTOEntidades.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\Newtonsoft.Json.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\DBCAccesoDatos.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\DBCAccesoDatos.dll.config
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\DTOEntidades.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\Newtonsoft.Json.xml
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\obj\Debug\BOCNegocio.csproj.AssemblyReference.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\obj\Debug\BOCNegocio.csproj.CoreCompileInputs.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\obj\Debug\BOCNegocio.csproj.CopyComplete
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\obj\Debug\Etna.BOCNegocio.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\obj\Debug\Etna.BOCNegocio.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\System.Data.SqlClient.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Debug\System.Data.SqlClient.xml
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Debug\Etna.BOCNegocio.dll.config
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Debug\Etna.BOCNegocio.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Debug\Etna.BOCNegocio.pdb
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Debug\DBCAccesoDatos.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Debug\DTOEntidades.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Debug\nJupiter.DataAccess.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Debug\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Debug\DBCAccesoDatos.pdb
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Debug\DBCAccesoDatos.dll.config
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Debug\DTOEntidades.pdb
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Debug\System.Data.Odbc.xml
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\obj\Debug\BOCNegocio.csproj.AssemblyReference.cache
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\obj\Debug\BOCNegocio.csproj.CoreCompileInputs.cache
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\obj\Debug\BOCNegocio.csproj.CopyComplete
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\obj\Debug\Etna.BOCNegocio.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\obj\Debug\Etna.BOCNegocio.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\BOCNegocio\obj\Debug\Etna.BOCNegocio.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\BOCNegocio\obj\Debug\Etna.BOCNegocio.pdb
+C:\Desarrollo_Exxis\backend\BOCNegocio\obj\Debug\Etna.BOCNegocio.dll
+C:\Desarrollo_Exxis\backend\BOCNegocio\obj\Debug\Etna.BOCNegocio.pdb
+C:\EXX_DEV\Consumos\backend\BOCNegocio\obj\Debug\Etna.BOCNegocio.dll
+C:\EXX_DEV\Consumos\backend\BOCNegocio\obj\Debug\Etna.BOCNegocio.pdb

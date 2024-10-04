@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Etna.WcfRest.SrvVentas" CodeBehind="SrvVentas.svc.cs" %>

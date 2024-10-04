@@ -1,0 +1,294 @@
+<div class="header bg-gradient-gray pb-8 pt-5 pt-md-8">
+  <!-- <div class="container-fluid">
+      
+  </div> -->
+</div>
+<!-- Page content -->
+<div class="container-fluid mt--7" style="margin-top: -13rem !important;">
+  <div class="row">      
+    <div class="col-xl-12 order-xl-1">
+      <div class="card bg-secondary shadow">
+        <div class="card-header bg-white border-0">
+          <div class="row align-items-center">
+            <div class="col-4">
+              <h3 class="mb-0">{{ _titulo }}</h3>
+            </div>
+            <div class="col-2">
+              <h3 class="mb-0">ESTADO: {{ estado == 'A' ? 'CANCELADO' : (estado == 'O' ? "ABIERTO" : "CERRADO") }}</h3>
+            </div>
+            <div class="col-2 align-items-right">
+              <a class="btn btn-danger btn-sm" (click)="mostrarAnulacion()" *ngIf="estado == 'O'" ngbTooltip="Cancelar" placement="bottom" style="top: 10;" >
+                <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-ban" viewBox="0 0 16 16">
+                    <path d="M15 8a6.97 6.97 0 0 0-1.71-4.584l-9.874 9.875A7 7 0 0 0 15 8M2.71 12.584l9.874-9.875a7 7 0 0 0-9.874 9.874ZM16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0"/>
+                  </svg> -->Cancelar
+                </a>
+            </div>
+            <div class="col-2">
+              <h3 class="mb-0">{{ pedido.motivoAnulacion }}</h3>
+            </div>
+            <div class="col-2 derecha">
+              <button class="btn btn-imagina btn-sm" (click)="cerrar()" >Cerrar</button>
+            </div>
+          </div>
+        </div>
+        <div class="card-body">
+          <form>
+            <div class="pl-lg-4">              
+              <div class="row">
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-compania">Sucursal</label>
+                    <input type="text" id="input-compania" class="form-control form-control-alternative" disabled="" >
+                  </div>
+                </div>
+                
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-tip-ope">Tipo Operación</label>
+                    <select id="input-tip-ope" class="form-control" disabled="">            
+                      <option value="">--Seleccione--</option>
+                      <option *ngFor="let oper of listaTpoOper" [value]="oper.codigo" > {{ oper.descripcion }} </option>            
+                    </select>
+                  </div>
+                </div>
+
+                <div class="col-lg-3">
+                  <label class="form-control-label" for="input-serie">Serie</label>
+                  <select id="input-serie" class="form-control" disabled="" >            
+                    <!-- <option value="">--Seleccione--</option> -->
+                    <option *ngFor="let serie of listaSeries" [value]="serie.codigo" > {{ serie.descripcion }} </option>            
+                  </select>
+                </div>
+
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-cod-moneda">Moneda</label>
+                    <select id="input-cod-moneda" class="form-control" disabled="" >
+                      <option value="">--Seleccione--</option>
+                      <option *ngFor="let moneda of listaMoneda" [value]="moneda.codigo" > {{ moneda.descripcion }} </option>            
+                    </select>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-fecha-docu">Fecha Documento</label>
+                    <input type="date" id="input-fecha-docu" class="form-control form-control-alternative" disabled="" >
+                  </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-fecha-necesaria">Fecha Entrega</label>
+                    <input type="date" id="input-fecha-necesaria" class="form-control form-control-alternative" disabled="" >
+                  </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-cod-imp">Cod. Impuesto</label>
+                    <select id="input-cod-imp" class="form-control" disabled="">
+                      <option value="">--Seleccione--</option>
+                      <option *ngFor="let impuesto of listaImpuesto" [value]="impuesto.codigo" > {{ impuesto.descripcion }} </option>            
+                    </select>
+                  </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-alm-ven">Almacén Ventas</label>
+                    <select id="input-alm-ven" class="form-control" disabled="">            
+                      <!-- <option value="">--Seleccione--</option> -->
+                      <option *ngFor="let almacen of listaAlmacen" [value]="almacen.codigo" > {{ almacen.descripcion }} </option>            
+                    </select>
+                  </div>
+                </div> 
+              </div>
+              <div class="row">                
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-comment">Proyecto</label>
+                    <select class="form-control" id="cmbProyecto" disabled="">            
+                      <option value="">--Seleccione--</option>
+                      <option *ngFor="let proyecto of listaProyecto" [value]="proyecto.codigo" [selected]="_codProyecto==proyecto.codigo" > {{ proyecto.descripcion }} </option>            
+                    </select>
+                  </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-comment">Etapa</label>
+                    <select class="form-control" id="cmbEtapa" disabled="">            
+                      <option value="">--Seleccione--</option>
+                      <option *ngFor="let dimension of listaDim1" [value]="dimension.codigo" [selected]="_codDimensi1==dimension.codigo" > {{ dimension.descripcion }} </option>            
+                    </select>
+                  </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-comment">Sub-Etapa</label>
+                    <select class="form-control" id="cmbSubEtapa" disabled="">            
+                      <option value="">--Seleccione--</option>
+                      <option *ngFor="let dimension of listaDim2" [value]="dimension.codigo" [selected]="_codDimensi2==dimension.codigo" > {{ dimension.descripcion }} </option>         
+                    </select>
+                  </div>
+                </div>
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-comment">Jefe Almacén</label>
+                    <input type="text" id="input-jefe" placeholder="Comentarios" class="form-control form-control-alternative" disabled="" />
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-lg-3">
+                  <div class="form-group">
+                    <label class="form-control-label" for="input-comment">Nombre Trabajador</label>
+                    <input type="text" id="input-trabajador" placeholder="Nombre Trabajador" class="form-control form-control-alternative" disabled="" />
+                  </div>
+                </div>
+                <div class="col-lg-9">
+                  <label class="form-control-label" for="input-comment">Comentario</label>
+                  <input type="text" id="input-comment" placeholder="Comentarios" class="form-control form-control-alternative" disabled="" />
+                </div>                  
+              </div>
+            </div>
+            <hr class="my-4" />
+            <!-- Table -->
+            <div class="row">
+                  <div class="col">
+                      <div class="card shadow">          
+                          <div class="table-responsive">
+                              <table class="table align-items-center table-flush" id="gridDoc">
+                                  <thead class="thead-light">
+                                      <tr>
+                                          <th [class]="item.customClass" scope="col" *ngFor="let item of headerDocumento">{{ item.label }}</th>
+                                      </tr>
+                                  </thead>
+                                  <tbody>
+                                      <tr *ngFor="let row of pedidoDet">
+                                          <td [class]="item.customClass" *ngFor="let item of headerDocumento">                                              
+                                            <ng-container *ngIf="row[item.key]">                                        
+                                              <ng-container *ngIf="item.subKey=='' && item.type=='' && item.key!='idProducto' && item.customClass!='derecha'">
+                                                {{ row[item.key] }}
+                                              </ng-container>
+                                              <ng-container *ngIf="item.subKey=='' && item.type=='' && item.key!='idProducto' && item.customClass=='derecha' ">
+                                                {{ row[item.key] | number:'1.2-2' }}
+                                              </ng-container>
+                                              <ng-container *ngIf="item.subKey=='' && item.type=='' && item.key=='idProducto'">
+                                                {{ row[item.key] }}
+                                              </ng-container>
+                                            </ng-container>
+                                            <ng-container *ngIf="item.type=='buttonDelete'">
+                                                <button type="button" class="btn btn-danger btn-sm" (click)="deleteRow(row)">
+                                                    <i class="fa fa-trash" aria-hidden="true"></i>
+                                                </button>
+                                            </ng-container>
+                                            <ng-container *ngIf="item.type=='text'">
+                                                <ng-container *ngIf="item.customClass == ''" >
+                                                  <input type="text" id="txt" class="form-control form-control-alternative right" style="width: 100px;" (blur)='actualizarCant(row)' >
+                                                </ng-container>
+                                                <ng-container *ngIf="item.customClass == 'porcentaje'" >
+                                                  <input type="text" id="txt" class="form-control form-control-alternative right" style="width: 100px;" (blur)='actualizarDesc(row)' >
+                                                </ng-container>
+                                            </ng-container>
+                                            <ng-container *ngIf="item.type=='select'">
+                                            </ng-container>
+                                          </td>
+                                      </tr>
+                                  </tbody>
+                              </table>
+                          </div>
+                      </div>
+                  </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-3">
+                <div class="form-group">
+                  <label class="form-control-label" for="input-subtotal">SubTotal</label>
+                  <input id="input-subtotal" type="text" placeholder="0.00" class="form-control form-control-alternative right" disabled="disabled"/>
+                </div>
+              </div>
+              <div class="col-lg-3">
+                <div class="form-group">
+                  <label class="form-control-label" for="input-impuesto">Impuesto</label>
+                  <input id="input-impuesto" type="text" placeholder="0.00" class="form-control form-control-alternative right" disabled="disabled"/>
+                </div>
+              </div>
+              <div class="col-lg-3">
+                <div class="form-group">
+                  <label class="form-control-label" for="input-total">Total</label>
+                  <input id="input-total" type="text" placeholder="0.00" class="form-control form-control-alternative right" disabled="disabled"/>
+                </div>
+              </div>
+            </div>
+          </form>
+
+          <!-- Error Dialog -->
+          <div tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" [ngClass]="(errorDialog) ? 'modal modalApp' : 'modal fade bd-example-modal-lg'">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header">
+                      <h5>Mensaje Sistema</h5>
+                  </div>
+                  <div class="modal-body">
+                      <div class="row">
+                          <div class="col-lg-12">
+                              <span *ngIf="errorDialog">
+                                  <p [innerHTML]="msgError"></p>
+                              </span>
+                          </div>                              
+                      </div>
+                  </div>
+                  <div class="modal-footer">
+                      <button class="btn btn-imagina" (click)="errorDialog = false">OK</button>
+                  </div>
+                </div>
+              </div>
+          </div>
+
+          <!-- Confirmacion anulacion pedido-->
+          <div tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" [ngClass]="(anularDialog) ? 'modal modalApp' : 'modal fade modal-md'">
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content">
+                <div class="modal-header">
+                    <h5>Mensaje Sistema</h5>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <i class="pi pi-exclamation-triangle mr-3" style="font-size: 2rem"></i>
+                            <span>¿Esta seguro de querer anular la solicitud de consumo?</span>
+                        </div>                              
+                    </div>
+                    <div class="row">
+                      <div class="col-lg-12">
+                        <div class="form-group">
+                          <label class="form-control-label" for="input-mot-anula">Motivo Anulación</label>
+                          <select id="input-mot-anula" class="form-control">            
+                            <option value="">--Seleccione--</option>
+                            <option *ngFor="let motivo of litaMotivo" [value]="motivo.codigo" > {{ motivo.codigo }} - {{ motivo.descripcion }} </option>            
+                          </select>
+                        </div>
+                      </div>                              
+                    </div>
+                    <div class="row">
+                      <div class="col-lg-12">
+                        <div class="form-group">
+                          <div class="alert alert-warning" role="alert" *ngIf="lblMensajeVacio != ''">
+                            <span class="alert-inner--text">{{ lblMensajeVacio }}</span>
+                          </div>
+                        </div>
+                      </div>                              
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-imagina" label="No" (click)="anularDialog = false">No</button>
+                    <button class="btn btn-imagina" (click)="cancelPedido()">Si</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

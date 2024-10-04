@@ -1,0 +1,92 @@
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.dll.config
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.pdb
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\DTOEntidades.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\nJupiter.DataAccess.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\System.Configuration.ConfigurationManager.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\System.Security.AccessControl.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Permissions.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Principal.Windows.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\DTOEntidades.pdb
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\System.Configuration.ConfigurationManager.xml
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\System.Data.Odbc.xml
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\System.Security.AccessControl.xml
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Permissions.xml
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Principal.Windows.xml
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.AssemblyReference.cache
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\x64\Release\Interop.SAPbobsCOM.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.ResolveComReference.cache
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.CoreCompileInputs.cache
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.CopyComplete
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.dll.config
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\DTOEntidades.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\nJupiter.DataAccess.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\System.Configuration.ConfigurationManager.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\System.Data.Odbc.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\System.Security.AccessControl.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Permissions.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Principal.Windows.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\DTOEntidades.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\System.Configuration.ConfigurationManager.xml
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\System.Data.Odbc.xml
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\System.Security.AccessControl.xml
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Permissions.xml
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Principal.Windows.xml
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.AssemblyReference.cache
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\obj\x64\Release\Interop.SAPbobsCOM.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.ResolveComReference.cache
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.CoreCompileInputs.cache
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.CopyComplete
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.pdb
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.dll.config
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.dll
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.pdb
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\DTOEntidades.dll
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\nJupiter.DataAccess.dll
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\System.Configuration.ConfigurationManager.dll
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\System.Data.Odbc.dll
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\System.Security.AccessControl.dll
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Permissions.dll
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Principal.Windows.dll
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\DTOEntidades.pdb
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\System.Configuration.ConfigurationManager.xml
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\System.Data.Odbc.xml
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\System.Security.AccessControl.xml
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Permissions.xml
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Principal.Windows.xml
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.AssemblyReference.cache
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\obj\x64\Release\Interop.SAPbobsCOM.dll
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.ResolveComReference.cache
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\obj\x64\Release\DBCAcces.B05C3100.Up2Date
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.dll
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.pdb
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.dll.config
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.dll
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\DBCAccesoDatos.pdb
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\DTOEntidades.dll
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\nJupiter.DataAccess.dll
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\System.Configuration.ConfigurationManager.dll
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\System.Data.Odbc.dll
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\System.Security.AccessControl.dll
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Permissions.dll
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Principal.Windows.dll
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\DTOEntidades.pdb
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\System.Configuration.ConfigurationManager.xml
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\System.Data.Odbc.xml
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\System.Security.AccessControl.xml
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Permissions.xml
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\bin\x64\Release\System.Security.Principal.Windows.xml
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.AssemblyReference.cache
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\obj\x64\Release\Interop.SAPbobsCOM.dll
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.ResolveComReference.cache
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.csproj.CoreCompileInputs.cache
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\obj\x64\Release\DBCAcces.B05C3100.Up2Date
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.dll
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\obj\x64\Release\DBCAccesoDatos.pdb

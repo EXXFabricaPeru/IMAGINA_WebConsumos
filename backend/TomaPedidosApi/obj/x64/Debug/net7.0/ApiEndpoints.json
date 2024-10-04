@@ -1,0 +1,683 @@
+[
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.ArticuloController",
+    "Method": "Get",
+    "RelativePath": "Articulo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "valor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "almacen",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "listprice",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "moneda",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "flagStock",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaArticulo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.ArticuloController",
+    "Method": "GetPrecio",
+    "RelativePath": "Articulo/precio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "listPrice",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "moneda",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "undMed",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codigoArt",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaArticulo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.ArticuloController",
+    "Method": "GetStock",
+    "RelativePath": "Articulo/stock",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigoArt",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "undMed",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaArticulo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.ArticuloController",
+    "Method": "GetStockUnd",
+    "RelativePath": "Articulo/stockund",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "almacen",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "undMed",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codigoArt",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaArticulo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.ClienteController",
+    "Method": "Get",
+    "RelativePath": "Cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "valor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codvendedor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "flag",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaCliente",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.MaestroController",
+    "Method": "Get",
+    "RelativePath": "Maestro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "valor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "valor2",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "valor3",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaTablaGeneral",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.PedidoController",
+    "Method": "Get",
+    "RelativePath": "Pedido",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "tipo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaPedido",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.PedidoController",
+    "Method": "Post",
+    "RelativePath": "Pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedido",
+        "Type": "DTOEntidades.DTOPedidoVentaCab",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.PedidoController",
+    "Method": "Put",
+    "RelativePath": "Pedido",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedido",
+        "Type": "DTOEntidades.DTOPedidoVentaCab",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.PedidoController",
+    "Method": "GetLista",
+    "RelativePath": "Pedido/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CodVendedor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FecIni",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FecFin",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Tipo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cliente",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Estado",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaPedido",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.PedidoController",
+    "Method": "GetTraking",
+    "RelativePath": "Pedido/Tracking",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fecini",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fecfin",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codvendedor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codcliente",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaPedido",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.TransferenciaController",
+    "Method": "fn_SolicitudTransferencia_Buscar",
+    "RelativePath": "Transferencia",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "docEntry",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaTransferencia",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.TransferenciaController",
+    "Method": "fn_SolicitudTransferencia_Registrar",
+    "RelativePath": "Transferencia",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferencia",
+        "Type": "DTOEntidades.DTOTransferenciaCab",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.TransferenciaController",
+    "Method": "fn_SolicitudTransferencia_Anular",
+    "RelativePath": "Transferencia",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferencia",
+        "Type": "DTOEntidades.DTOTransferenciaCab",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuesta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.TransferenciaController",
+    "Method": "fn_SolicitudTransferencia_Listar",
+    "RelativePath": "Transferencia/Listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fecDesde",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fecHasta",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "estado",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "user",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaTransferencia",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.UsuarioController",
+    "Method": "Post",
+    "RelativePath": "Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empleado",
+        "Type": "DTOEntidades.DTOEmpleado",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaEmpleado",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.UsuarioController",
+    "Method": "Put",
+    "RelativePath": "Usuario",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empleado",
+        "Type": "DTOEntidades.DTOEmpleado",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaEmpleado",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.UsuarioController",
+    "Method": "PutInactivar",
+    "RelativePath": "Usuario/inactivar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empleado",
+        "Type": "DTOEntidades.DTOEmpleado",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaEmpleado",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.UsuarioController",
+    "Method": "GetListar",
+    "RelativePath": "Usuario/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "valor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaEmpleado",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.UsuarioController",
+    "Method": "PostLogin",
+    "RelativePath": "Usuario/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credencial",
+        "Type": "DTOEntidades.DTOCredencial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaEmpleado",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TomaPedidosApi.Controllers.UsuarioController",
+    "Method": "GetUsuario",
+    "RelativePath": "Usuario/obtener",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DTOEntidades.DTORespuestaEmpleado",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

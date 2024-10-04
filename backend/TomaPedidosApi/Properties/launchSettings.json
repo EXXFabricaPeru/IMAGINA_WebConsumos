@@ -1,0 +1,48 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:33727",
+      "sslPort": 0
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "TipoBD": "HANA",
+        "Server": "NDB@192.168.1.215:30013",
+        "PassSap": "1234",
+        "UserSap": "consultor4",
+        "UserDb": "SAPINST",
+        "PassDb": "Passw0rd",
+        "BaseDatos": "ZSBO_KAMASA_DESARROLLO",
+        "ServerLicencia": "",
+        "ASPNETCORE_ENVIRONMENT": "Production",
+        "CONEXIONODBC": "HANASERVER"
+      }
+    },
+    "TomaPedidosApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "TipoBD": "HANA",
+        "Server": "NDB@192.168.1.215:30013",
+        "PassSap": "1234",
+        "UserSap": "consultor4",
+        "UserDb": "SAPINST",
+        "PassDb": "Passw0rd",
+        "BaseDatos": "ZSBO_KAMASA_DESARROLLO",
+        "ServerLicencia": "",
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      },
+      "dotnetRunMessages": "true",
+      "applicationUrl": "http://localhost:8081"
+    }
+  }
+}

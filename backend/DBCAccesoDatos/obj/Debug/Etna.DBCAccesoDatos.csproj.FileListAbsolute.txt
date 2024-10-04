@@ -1,0 +1,9 @@
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\DBCAccesoDatos\bin\Debug\Etna.DBCAccesoDatos.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\DBCAccesoDatos\bin\Debug\Etna.DBCAccesoDatos.dll.config
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\DBCAccesoDatos\bin\Debug\Etna.DTOEntidades.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\DBCAccesoDatos\bin\Debug\EtnaEncryptor.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\DBCAccesoDatos\bin\Debug\Etna.DTOEntidades.pdb
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\DBCAccesoDatos\obj\Debug\Etna.DBCAccesoDatos.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\DBCAccesoDatos\obj\Debug\Etna.DBCAccesoDatos.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\DBCAccesoDatos\obj\Debug\Etna.DBCAccesoDatos.pdb
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\DBCAccesoDatos\bin\Debug\Etna.DBCAccesoDatos.pdb

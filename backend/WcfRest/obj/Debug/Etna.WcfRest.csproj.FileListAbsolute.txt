@@ -1,0 +1,17 @@
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\obj\Debug\Etna.WcfRest.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\Etna.WcfRest.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\Etna.WcfRest.pdb
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\Etna.BOCNegocio.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\Etna.DTOEntidades.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\Newtonsoft.Json.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\Etna.DBCAccesoDatos.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\EtnaEncryptor.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\Etna.AgentesWCF.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\Etna.BOCNegocio.pdb
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\Etna.DTOEntidades.pdb
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\Newtonsoft.Json.xml
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\Etna.DBCAccesoDatos.pdb
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\obj\Debug\Etna.WcfRest.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\obj\Debug\Etna.WcfRest.pdb
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\EtnaAgenteMaestros.dll
+C:\Desarrollo\Fuentes\Etna\EtnaWcfRest\EtnaWCFRest\Etna.WcfRest\bin\EtnaAgenteMaestros.pdb

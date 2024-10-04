@@ -1,0 +1,54 @@
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\DBCAccesoDatos.dll.config
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\DBCAccesoDatos.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\DBCAccesoDatos.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\DTOEntidades.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\DTOEntidades.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.csproj.AssemblyReference.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\obj\Debug\Interop.SAPbobsCOM.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.csproj.ResolveComReference.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.csproj.CoreCompileInputs.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.csproj.CopyComplete
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\System.Data.SqlClient.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\System.Data.SqlClient.xml
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\System.Security.AccessControl.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\System.Security.Permissions.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\System.Security.Principal.Windows.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\System.Security.AccessControl.xml
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\System.Security.Permissions.xml
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DBCAccesoDatos\bin\Debug\System.Security.Principal.Windows.xml
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\DBCAccesoDatos.dll.config
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\DBCAccesoDatos.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\DBCAccesoDatos.pdb
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\DTOEntidades.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\nJupiter.DataAccess.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\System.Security.AccessControl.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\System.Security.Permissions.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\System.Security.Principal.Windows.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\DTOEntidades.pdb
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\System.Data.Odbc.xml
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\System.Security.AccessControl.xml
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\System.Security.Permissions.xml
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\bin\Debug\System.Security.Principal.Windows.xml
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.csproj.AssemblyReference.cache
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\Debug\Interop.SAPbobsCOM.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.csproj.ResolveComReference.cache
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.csproj.CoreCompileInputs.cache
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.csproj.CopyComplete
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.dll
+C:\DEV_EXX\TomaPedido\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.pdb
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.csproj.AssemblyReference.cache
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.dll
+C:\EXXIS Desarrollos\Fuentes\ImaginaOV-ST\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.pdb
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.csproj.AssemblyReference.cache
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.dll
+C:\Desarrollo_Exxis\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.pdb
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.csproj.AssemblyReference.cache
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.dll
+C:\EXX_DEV\Consumos\backend\DBCAccesoDatos\obj\Debug\DBCAccesoDatos.pdb

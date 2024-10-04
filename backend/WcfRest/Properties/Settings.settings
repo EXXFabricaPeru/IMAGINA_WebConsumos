@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Etna.WcfRest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ErrorService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Se presentó un error en el servicio, consulte con el administrador del sistema</Value>
+    </Setting>
+    <Setting Name="BaseDatos" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SBO_ETNA</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

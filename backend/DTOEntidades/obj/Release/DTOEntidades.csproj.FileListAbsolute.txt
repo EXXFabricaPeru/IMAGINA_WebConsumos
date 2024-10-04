@@ -1,0 +1,12 @@
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DTOEntidades\bin\Release\DTOEntidades.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DTOEntidades\bin\Release\DTOEntidades.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DTOEntidades\obj\Release\DTOEntidades.csproj.AssemblyReference.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DTOEntidades\obj\Release\DTOEntidades.csproj.CoreCompileInputs.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DTOEntidades\obj\Release\DTOEntidades.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\DTOEntidades\obj\Release\DTOEntidades.pdb
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\bin\Release\DTOEntidades.dll
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\bin\Release\DTOEntidades.pdb
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\obj\Release\DTOEntidades.csproj.AssemblyReference.cache
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\obj\Release\DTOEntidades.csproj.CoreCompileInputs.cache
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\obj\Release\DTOEntidades.dll
+C:\DEV_EXX\TomaPedido\backend\DTOEntidades\obj\Release\DTOEntidades.pdb

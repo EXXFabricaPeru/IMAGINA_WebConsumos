@@ -1,0 +1,496 @@
+<div class="header bg-gradient-gray pb-8 pt-5 pt-md-8">
+    <!-- <div class="container-fluid">
+        
+    </div> -->
+</div>
+<!-- Page content -->
+<div class="container-fluid mt--7" style="margin-top: -13rem !important;">
+    <div class="row">      
+      <div class="col-xl-12 order-xl-1">
+        <div class="card bg-secondary shadow">
+          <div class="card-header bg-white border-0">
+            <div class="row align-items-center">
+              <div class="col-8">
+                <h3 class="mb-0">{{ _titulo }}</h3>
+              </div>
+              <div class="col-4 text-right">
+                
+              </div>
+            </div>
+          </div>
+          <div class="card-body">
+            <form autocomplete="off">
+              <!-- <h6 class="heading-small text-muted mb-4">User information</h6> -->
+              <div class="pl-lg-4">
+                <div class="row">
+                  <div class="col-lg-4">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-compania">Sucursal</label>
+                      <input list="listaSucursales" id="input-compania" name="input-compania" class="form-control" [(ngModel)]="idSucursal" (change)="obtenerListaxSucursal()" (click)="idSucursal=''" />
+                      <datalist id="listaSucursales" >
+                        <option *ngFor="let item of listaSucursales" [value]="item.descripcion" >{{item.codigo}}</option> 
+                      </datalist>
+                      <!-- <select id="input-compania" class="form-control form-control-alternative" (change)="obtenerListaxSucursal()" [(ngModel)]="idSucursal" >            
+                        <option value="" selected>--Seleccione--</option>
+                        <option *ngFor="let sucursal of listaSucursales" [value]="sucursal.codigo" [select] > {{ sucursal.descripcion }} </option>            
+                      </select> -->
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-tip-ope">Tipo Operación</label>
+                      <!-- <input list="listaTpoOper" id="input-tip-ope" name="input-tip-ope" class="form-control" [(ngModel)]="tipoOperacion" [disabled]="xxtipooperacion == false"  />
+                      <datalist id="listaTpoOper" >
+                        <option *ngFor="let item of listaTpoOper" [value]="item.descripcion" ></option> 
+                      </datalist> -->
+                      <select id="input-tip-ope" class="form-control" [disabled]="xxtipooperacion == false" [(ngModel)]="tipoOperacion" >
+                        <option value="">--Seleccione--</option>
+                        <option *ngFor="let oper of listaTpoOper" [value]="oper.codigo" [selected]="oper.codigo==tipoOperacion" > {{ oper.descripcion }} </option>            
+                      </select>
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-serie">Serie</label>
+                      <input list="listaSeries" id="input-serie" name="input-serie" class="form-control" [(ngModel)]="series" (click)="series=''" />
+                      <datalist id="listaSeries" >
+                        <option *ngFor="let item of listaSeries" [value]="item.descripcion" ></option> 
+                      </datalist>
+                      <!-- <select id="input-serie" class="form-control" [(ngModel)]="series" >
+                        <option *ngFor="let serie of listaSeries" [value]="serie.codigo" > {{ serie.descripcion }} </option>            
+                      </select> -->
+                    </div>
+                  </div>
+                  <!-- <div class="col-lg-3">
+                    <div class="form-group">
+                    </div>
+                  </div> -->
+                </div>
+                
+                <div class="row">
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-fecha-docu">Fecha Documento</label>
+                      <input type="date" id="input-fecha-docu" class="form-control form-control-alternative" >
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-fecha-necesaria">Fecha Entrega</label>
+                      <input type="date" id="input-fecha-necesaria" class="form-control form-control-alternative" >
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-alm-ori">Almacén Origen</label>
+                      <input list="listaAlmacenOrigen" id="input-alm-ori" name="input-alm-ori" class="form-control" [(ngModel)]="codAlmacen" (click)="codAlmacen=''" />
+                      <datalist id="listaAlmacenOrigen" >
+                        <option *ngFor="let item of listaAlmacenOrigen" [value]="item.descripcion" ></option> 
+                      </datalist>
+                      <!-- <select id="input-alm-ori" class="form-control">            
+                        <option *ngFor="let almacen of listaAlmacenOrigen" [value]="almacen.codigo" > {{ almacen.descripcion }} </option> 
+                      </select> -->
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-alm-des">Almacén Destino</label>
+                      <input list="listaAlmacenDestino" id="input-alm-des" name="input-alm-des" class="form-control" [(ngModel)]="codAlmacenDes" (click)="codAlmacenDes" />
+                      <datalist id="listaAlmacenDestino" >
+                        <option *ngFor="let item of listaAlmacenDestino" [value]="item.descripcion" ></option> 
+                      </datalist>
+                      <!-- <select id="input-alm-des" class="form-control">
+                        <option *ngFor="let almacen of listaAlmacenDestino" [value]="almacen.codigo" > {{ almacen.descripcion }} </option>            
+                      </select> -->
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="cmbProyecto">Proyecto</label>
+                      <input list="listaProyecto" id="cmbProyecto" name="cmbProyecto" class="form-control" [(ngModel)]="codProyecto" (change)="selectProyecto('0')" (click)="codProyecto=''" />
+                      <datalist id="listaProyecto" >
+                        <option *ngFor="let item of listaProyecto" [value]="item.descripcion" ></option> 
+                      </datalist>
+                      <!-- <select class="form-control" id="cmbProyecto" (change)="selectProyecto('0')">            
+                        <option value="">--Seleccione--</option>
+                        <option *ngFor="let proyecto of listaProyecto" [value]="proyecto.codigo" > {{ proyecto.descripcion }} </option>            
+                      </select> -->
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-comment">Etapa</label>
+                      <input list="listaDim1" id="cmbEtapa" name="cmbEtapa" class="form-control" [(ngModel)]="codEtapa" (change)="selectProyecto('1')" (click)="codEtapa=''" />
+                      <datalist id="listaDim1" >
+                        <option *ngFor="let item of listaDim1" [value]="item.descripcion" ></option> 
+                      </datalist>
+                      <!-- <select class="form-control" id="cmbEtapa" (change)="selectProyecto('1')">            
+                        <option value="">--Seleccione--</option>
+                        <option *ngFor="let dimension of listaDim1" [value]="dimension.codigo" > {{ dimension.descripcion }} </option>            
+                      </select> -->
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-comment">Sub-Etapa</label>
+                      <input list="listaDim2" id="cmbSubEtapa" name="cmbSubEtapa" class="form-control" [(ngModel)]="codSubEtapa" (click)="codSubEtapa=''" />
+                      <datalist id="listaDim2" >
+                        <option *ngFor="let item of listaDim2" [value]="item.descripcion" ></option> 
+                      </datalist>
+                      <!-- <select class="form-control" id="cmbSubEtapa" >            
+                        <option value="">--Seleccione--</option>
+                        <option *ngFor="let dimension of listaDim2" [value]="dimension.codigo" > {{ dimension.descripcion }} </option>         
+                      </select> -->
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-jefe">Jefe Almacén </label>
+                      <input list="listaJefeAlm" id="input-jefe" name="input-jefe" class="form-control" [(ngModel)]="codJefeAlm" (click)="codJefeAlm=''" />
+                      <datalist id="listaJefeAlm" >
+                        <option *ngFor="let item of listaJefeAlm" [value]="item.descripcion" ></option> 
+                      </datalist>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">  
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-comment">Nombre Trabajador</label>
+                      <input type="text" id="input-trabajador" placeholder="Nombre Trabajador" class="form-control form-control-alternative" />
+                    </div>
+                  </div>                
+                  <div class="col-lg-6">
+                    <div class="form-group">
+                      <label class="form-control-label" for="input-comment">Comentario</label>
+                      <input type="text" id="input-comment" placeholder="Comentarios" class="form-control form-control-alternative" />
+                    </div>
+                  </div>
+                  <div class="col-lg-3">
+                    <div class="form-group">
+                      <br>
+                      <button id="input-prod" type="button" class="btn btn-imagina btn-sm" (click)="openProducto()">Agregar</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <hr class="my-4" />
+              <!-- Table -->
+              <div class="row">
+                <div class="col">
+                  <div class="card shadow">          
+                    <div class="table-responsive">
+                      <table class="table align-items-center table-flush" id="gridDoc">
+                        <thead class="thead-light">
+                          <tr>
+                            <th [class]="item.customClass" scope="col" *ngFor="let item of headerDocumento">{{ item.label }}</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr *ngFor="let row of listaDocumento" [ngClass]="(row.isBonificcion || row.descuento > 0) ? 'C' + row.u_EXP_COLOR : ''">
+                            <td [class]="item.customClass" *ngFor="let item of headerDocumento">                                              
+                              <ng-container *ngIf="row[item.key]">                                        
+                                <ng-container *ngIf="item.subKey=='' && item.type=='' && item.customClass!='derecha' && item.key!='idProducto'">
+                                  {{ row[item.key] }}
+                                </ng-container>
+                                <ng-container *ngIf="item.subKey=='' && item.customClass=='derecha'" class="right" >
+                                  {{ row[item.key] }}
+                                </ng-container>
+                                <ng-container *ngIf="item.subKey=='' && item.type=='' && item.key=='idProducto'">
+                                  <a (click)="mostrarStock(row)" style="cursor: pointer;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M152.1 38.2c9.9 8.9 10.7 24 1.8 33.9l-72 80c-4.4 4.9-10.6 7.8-17.2 7.9s-12.9-2.4-17.6-7L7 113C-2.3 103.6-2.3 88.4 7 79s24.6-9.4 33.9 0l22.1 22.1 55.1-61.2c8.9-9.9 24-10.7 33.9-1.8zm0 160c9.9 8.9 10.7 24 1.8 33.9l-72 80c-4.4 4.9-10.6 7.8-17.2 7.9s-12.9-2.4-17.6-7L7 273c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.4 33.9 0l22.1 22.1 55.1-61.2c8.9-9.9 24-10.7 33.9-1.8zM224 96c0-17.7 14.3-32 32-32H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H256c-17.7 0-32-14.3-32-32zm0 160c0-17.7 14.3-32 32-32H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H256c-17.7 0-32-14.3-32-32zM160 416c0-17.7 14.3-32 32-32H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H192c-17.7 0-32-14.3-32-32zM48 368a48 48 0 1 1 0 96 48 48 0 1 1 0-96z"/></svg>  
+                                  </a>&nbsp;&nbsp;&nbsp;
+                                  {{ row[item.key] }}
+                                </ng-container>
+                              </ng-container>
+                              <ng-container *ngIf="item.type=='buttonDelete'">
+                                <button type="button" class="btn btn-danger btn-sm" (click)="deleteProduct(row)">
+                                  <i class="fa fa-trash" aria-hidden="true"></i>
+                                </button>
+                              </ng-container>
+                              <ng-container *ngIf="item.type=='text'">
+                                <ng-container *ngIf="item.customClass == ''" >
+                                  <input type="text" id="txtCant" class="form-control form-control-alternative right" style="width: 100px;" [value]="row.cantidad">
+                                </ng-container>                                                  
+                              </ng-container>
+                              <ng-container *ngIf="item.type=='select'">                                                          
+                                <ng-container *ngIf="item.customClass=='Proyecto'">
+                                  <select class="form-control" style="width: 150px !important;"(change)="selectProyecto(row)">            
+                                    <option value="">--Seleccione--</option>
+                                    <option *ngFor="let proyecto of listaProyecto" [value]="proyecto.codigo" > {{ proyecto.descripcion }} </option>            
+                                  </select>
+                                </ng-container>
+                                <ng-container *ngIf="item.customClass=='listaPartida'">
+                                  <input list="partidas" name="myBrowser" (change)="selectPartida(row)" class="form-control" [value]="row.idPartida" />
+                                  <datalist id="partidas" >
+                                    <option value="">--Seleccione--</option>
+                                    <option *ngFor="let partida of listaPartidaPresupuestal" [value]="partida.codigo" > {{ partida.descripcion }} </option> 
+                                  </datalist>
+                                </ng-container>
+                                <ng-container *ngIf="item.customClass=='listaUnd'">
+                                  <select class="form-control" (change)="actualizarPrecio(row)" > 
+                                    <option *ngFor="let undMed of row[item.customClass]" [value]="undMed.codigo" [selected]="undMed.codigo===row.unidad" > {{ undMed.descripcion }} </option>            
+                                  </select>
+                                </ng-container>
+                                <ng-container *ngIf="item.customClass=='Dimensión 1'">
+                                  <select class="form-control" style="width: 150px !important;" (change)="selectProyecto(row)" >            
+                                    <option value="">--Seleccione--</option>
+                                    <option *ngFor="let dimension of listaDim1" [value]="dimension.codigo" > {{ dimension.descripcion }} </option>            
+                                  </select>
+                                </ng-container>                              
+                                <ng-container *ngIf="item.customClass=='Dimensión 2'">
+                                  <select class="form-control" style="width: 150px !important;" >            
+                                    <option value="">--Seleccione--</option>
+                                    <option *ngFor="let dimension of listaDim2" [value]="dimension.codigo" > {{ dimension.descripcion }} </option>            
+                                  </select>
+                                </ng-container>
+                                <ng-container *ngIf="item.customClass=='Dimensión 3'">
+                                  <select class="form-control" style="width: 200px !important;" disabled>            
+                                    <option value="">--Seleccione--</option>
+                                    <option *ngFor="let dimension of listaDim3" [value]="dimension.codigo" [selected]="dimension.codigo===row.dimension3" > {{ dimension.descripcion }} </option>            
+                                  </select>
+                                </ng-container>            
+                                <ng-container *ngIf="item.customClass=='Dimensión 4'">
+                                  <select class="form-control" style="width: 200px !important;" disabled>            
+                                    <option value="">--Seleccione--</option>
+                                    <option *ngFor="let dimension of listaDim4" [value]="dimension.codigo" [selected]="dimension.codigo===row.dimension4" > {{ dimension.descripcion }} </option>            
+                                  </select>
+                                </ng-container>
+                              </ng-container>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>                                
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <hr class="my-4">
+              <div class="row">
+                <div class="col-lg-3">
+                  <button type="button" (click)="guardar()" class="btn btn-imagina">Guardar</button>
+                </div>
+                <div class="col-lg-3">
+                </div>
+                <div class="col-lg-3">
+                </div>
+                <div class="col-lg-3"></div>
+              </div>
+            </form>
+
+            <!-- agregar detalle -->
+            <div tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" [ngClass]="(productDialog) ? 'modal modalApp' : 'modal fade modal-lg'">
+              <div class="modal-dialog modal-lg" style="max-width: 1250px !important;">
+                <div class="modal-content">
+                  <div class="modal-body">
+                    <div class="row">
+                      <div class="col-lg-11">
+                        <div class="form-group"></div>
+                      </div>
+                      <div class="col-lg-1 derecha">
+                        <div class="form-group">
+                          <button type="button" class="btn btn-danger" data-bs-dismiss="modal" aria-label="Close" (click)="productDialog = false">X</button>                                
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-lg-8">
+                        <div class="form-group">                                
+                          <label class="form-control-label" for="input-valProd">Código o descripción</label>
+                          <input type="text" id="input-valProd" [(ngModel)]="valorProducto" class="form-control form-control-alternative" />
+                        </div>
+                      </div>
+                      <div class="col-lg-4">
+                        <div class="form-group">
+                          <br>
+                          <button type="button" class="btn btn-imagina" (click)="buscarProducto()" >Buscar</button>
+                        </div>
+                      </div>                      
+                    </div>
+                    <div class="row">
+                      <div class="col-lg-12">
+                        <div class="card shadow">
+                          <div class="table-responsive">
+                            <table class="table align-items-center table-flush" id="tblProd">
+                              <thead class="thead-light">
+                                <tr>
+                                  <th [class]="item.customClass" scope="col" *ngFor="let item of headerProducto">{{ item.label }}</th>
+                                </tr>
+                              </thead>
+                              <tbody>
+                                <tr *ngFor="let row of listaProducto | paginacionArt:pagina:10">
+                                  <td [class]="item.customClass" *ngFor="let item of headerProducto">
+                                    <ng-container *ngIf="item.type=='buttonSelect'">
+                                      <input type="checkbox" class="custom-control">
+                                    </ng-container>
+                                    <ng-container *ngIf="row[item.key]">                                        
+                                      <ng-container *ngIf="item.subKey=='' && item.type=='' && item.customClass!='fecha'">
+                                        {{ row[item.key] }}
+                                      </ng-container>
+                                    </ng-container>
+                                    <!-- <ng-container *ngIf="item.type=='buttonSelect'">
+                                        <button type="button" class="btn btn-primary btn-sm" (click)="selectProduct(row)">
+                                            <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512">
+                                                <path d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"/>
+                                            </svg>
+                                        </button>
+                                    </ng-container> -->
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <label style="background-color: red;">{{ lblMensajeVacio }}</label>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="card-footer py-4">
+                      <div class="row">
+                        <div class="col-lg-2">
+                          <button type="button" class="btn btn-imagina" (click)="selectProduct('row')">
+                            Seleccionar
+                          </button>
+                        </div>
+                        <div class="col-lg-10">
+                          <nav aria-label="...">
+                            <ul class="pagination justify-content-end mb-0">
+                              <li class="page-item">
+                                <a class="page-link" (click)="selectPagina(pagina > 1 ? pagina - 1 : pagina)" tabindex="-1"  style="cursor: pointer;">
+                                  <i class="fas fa-angle-left"></i>
+                                  <span class="sr-only">Previous</span>
+                                </a>
+                              </li>
+                              <li *ngFor="let pag of listaPaginas" [class]="pag == pagina ? 'page-item active' : 'page-item'">
+                                  <a class="page-link" (click)="selectPagina(pag)" style="cursor: pointer;" >{{ pag }}</a>
+                              </li>
+                              <li class="page-item">
+                                <a class="page-link" (click)="selectPagina(pagina < totalPag ? pagina + 1 : pagina)" style="cursor: pointer;" >
+                                  <i class="fas fa-angle-right"></i>
+                                  <span class="sr-only">Next</span>
+                                </a>
+                              </li>
+                            </ul>
+                          </nav>
+                        </div>
+                      </div>
+                    </div>
+                    
+                  </div>
+                  <!-- <div class="modal-footer">
+                    <button type="button" class="btn btn-light" style="bottom: 0 !important;" (click)="productDialog = false">Cerrar</button>
+                  </div> -->
+                </div>
+              </div>
+            </div>
+
+            <!-- Stock articulo -->
+            <div tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" [ngClass]="(productStockDialog) ? 'modal modalApp' : 'modal fade modal-lg'">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                  <div class="modal-header">
+                      <h4 class="modal-title">Stock Producto</h4>
+                      <h3 class="modal-title">{{ descProducto }}</h3>
+                  </div>
+                  <div class="modal-body">  
+                      <div class="row">
+                          <div class="col-lg-12">
+                              <div class="card shadow">          
+                                  <div class="table-responsive">
+                                      <table class="table align-items-center table-flush">
+                                          <thead class="thead-light">
+                                              <tr>
+                                                  <th [class]="item.customClass" scope="col" *ngFor="let item of headerProductoStock">{{ item.label }}</th>
+                                              </tr>
+                                          </thead>
+                                          <tbody>
+                                              <tr *ngFor="let row of listaProductoStock">
+                                                  <td [class]="item.customClass" *ngFor="let item of headerProductoStock">
+                                                      <ng-container *ngIf="row[item.key]">                                        
+                                                          <ng-container *ngIf="item.subKey=='' && item.type==''">
+                                                              {{ row[item.key] }}
+                                                          </ng-container>
+                                                      </ng-container>
+                                                  </td>
+                                              </tr>
+                                          </tbody>
+                                      </table>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="modal-footer">
+                      <button type="button" class="btn btn-imagina" style="bottom: 0 !important;" (click)="productStockDialog=false">Cerrar</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <!-- Error Dialog -->
+            <div tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" [ngClass]="(errorDialog) ? 'modal modalApp' : 'modal fade modal-md'">
+                <div class="modal-dialog modal-lg">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                        <h5>Mensaje Sistema</h5>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <span *ngIf="errorDialog">
+                                    <p [innerHTML]="msgError"></p>
+                                </span>
+                            </div>                              
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-imagina" (click)="errorDialog = false">OK</button>
+                    </div>
+                  </div>
+                </div>
+            </div>
+
+            <!-- Confirm Dialog -->
+            <div tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" [ngClass]="(confirmDialog) ? 'modal modalApp' : 'modal fade modal-md'">
+                <div class="modal-dialog modal-lg">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                        <h5>Mensaje Sistema</h5>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <span *ngIf="confirmDialog">
+                                    <p [innerHTML]="msgError"></p>
+                                </span>
+                            </div>                              
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                      <button class="btn btn-imagina" (click)="closeDialogConfirm()">OK</button>
+                  </div>
+                  </div>
+                </div>
+            </div>
+
+            <!-- Modal Cargando ... -->
+            <div tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" [ngClass]="(flagLoad) ? 'modal modalApp' : 'modal fade modal-md'">
+              <div class="modal-dialog modal-lg">
+                <div class="modal-content">                  
+                  <div class="modal-body">
+                      <div class="row">
+                          <div class="col-lg-12" style="text-align: center !important;">
+                            <img src="../../../assets/img/brand/load.gif" alt="Espera " style="max-width: 833px; vertical-align: middle !important;">
+                          </div>                              
+                      </div>
+                  </div>                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>

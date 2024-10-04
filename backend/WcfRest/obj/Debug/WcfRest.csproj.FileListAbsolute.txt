@@ -1,0 +1,17 @@
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\obj\Debug\WcfRest.csproj.AssemblyReference.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\obj\Debug\WcfRest.csproj.CoreCompileInputs.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\WcfRest.dll.config
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\WcfRest.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\WcfRest.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\Etna.BOCNegocio.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\DBCAccesoDatos.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\EtnaEncryptor.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\Etna.BOCNegocio.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\Etna.BOCNegocio.dll.config
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\DBCAccesoDatos.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\DBCAccesoDatos.dll.config
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\obj\Debug\WcfRest.csproj.CopyComplete
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\obj\Debug\WcfRest.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\obj\Debug\WcfRest.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\DTOEntidades.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\WcfRest\bin\DTOEntidades.pdb

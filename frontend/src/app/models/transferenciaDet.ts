@@ -1,0 +1,22 @@
+export interface TransferenciaDet {
+    idProducto: string,
+    descripcion: string,
+    cantidad: number,
+    cantidadOpen: number,
+    cantidadAten: number,
+    unidad: string,
+    codAlmacenOri: string,
+    codAlmacenDest: string,
+    dimension1: string,
+    dimension2: string,
+    dimension3: string,
+    dimension4: string,
+    proyecto: string,
+    codUndMed: number,
+    lineNum: number,
+    estado: string,
+    idPartida: string,
+    partida: string,
+    nroTransferencia: string,
+    listaPartida: any[]
+}

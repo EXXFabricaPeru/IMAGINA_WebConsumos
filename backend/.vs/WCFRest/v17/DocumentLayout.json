@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EXX_DEV\\Consumos\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECBFB7-A379-4BE5-908E-32FA9384C931}|DBCAccesoDatos\\DBCAccesoDatos.csproj|C:\\EXX_DEV\\Consumos\\backend\\dbcaccesodatos\\dbcpedidoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECBFB7-A379-4BE5-908E-32FA9384C931}|DBCAccesoDatos\\DBCAccesoDatos.csproj|solutionrelative:dbcaccesodatos\\dbcpedidoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECBFB7-A379-4BE5-908E-32FA9384C931}|DBCAccesoDatos\\DBCAccesoDatos.csproj|c:\\exx_dev\\consumos\\backend\\dbcaccesodatos\\dbctransferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECBFB7-A379-4BE5-908E-32FA9384C931}|DBCAccesoDatos\\DBCAccesoDatos.csproj|solutionrelative:dbcaccesodatos\\dbctransferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A62C462-B078-4332-9E9E-B796FEB15116}|BOCNegocio\\BOCNegocio.csproj|C:\\EXX_DEV\\Consumos\\backend\\bocnegocio\\bocpedidoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A62C462-B078-4332-9E9E-B796FEB15116}|BOCNegocio\\BOCNegocio.csproj|solutionrelative:bocnegocio\\bocpedidoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D88B67E-248D-46C8-8F95-5298105A55D7}|TomaPedidosApi\\TomaPedidosApi.csproj|c:\\exx_dev\\consumos\\backend\\tomapedidosapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D88B67E-248D-46C8-8F95-5298105A55D7}|TomaPedidosApi\\TomaPedidosApi.csproj|solutionrelative:tomapedidosapi\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A80B96-3E5C-4450-9D38-EA883127B4D4}|DTOEntidades\\DTOEntidades.csproj|C:\\EXX_DEV\\Consumos\\backend\\dtoentidades\\dtopedidoventadet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A80B96-3E5C-4450-9D38-EA883127B4D4}|DTOEntidades\\DTOEntidades.csproj|solutionrelative:dtoentidades\\dtopedidoventadet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20ECBFB7-A379-4BE5-908E-32FA9384C931}|DBCAccesoDatos\\DBCAccesoDatos.csproj|C:\\EXX_DEV\\Consumos\\backend\\dbcaccesodatos\\dbcseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20ECBFB7-A379-4BE5-908E-32FA9384C931}|DBCAccesoDatos\\DBCAccesoDatos.csproj|solutionrelative:dbcaccesodatos\\dbcseguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D88B67E-248D-46C8-8F95-5298105A55D7}|TomaPedidosApi\\TomaPedidosApi.csproj|c:\\exx_dev\\consumos\\backend\\tomapedidosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D88B67E-248D-46C8-8F95-5298105A55D7}|TomaPedidosApi\\TomaPedidosApi.csproj|solutionrelative:tomapedidosapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A80B96-3E5C-4450-9D38-EA883127B4D4}|DTOEntidades\\DTOEntidades.csproj|C:\\EXX_DEV\\Consumos\\backend\\dtoentidades\\dtopedidoventacab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A80B96-3E5C-4450-9D38-EA883127B4D4}|DTOEntidades\\DTOEntidades.csproj|solutionrelative:dtoentidades\\dtopedidoventacab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBCTransferencia.cs",
+              "DocumentMoniker": "C:\\EXX_DEV\\Consumos\\backend\\DBCAccesoDatos\\DBCTransferencia.cs",
+              "RelativeDocumentMoniker": "DBCAccesoDatos\\DBCTransferencia.cs",
+              "ToolTip": "C:\\EXX_DEV\\Consumos\\backend\\DBCAccesoDatos\\DBCTransferencia.cs",
+              "RelativeToolTip": "DBCAccesoDatos\\DBCTransferencia.cs",
+              "ViewState": "AQIAABYAAAAAmZmZmRkQwBkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:07:22.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTOPedidoVentaCab.cs",
+              "DocumentMoniker": "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOPedidoVentaCab.cs",
+              "RelativeDocumentMoniker": "DTOEntidades\\DTOPedidoVentaCab.cs",
+              "ToolTip": "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOPedidoVentaCab.cs",
+              "RelativeToolTip": "DTOEntidades\\DTOPedidoVentaCab.cs",
+              "ViewState": "AQIAAJMAAAAA+P////8AwKAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:17:23.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBCPedidoVenta.cs",
+              "DocumentMoniker": "C:\\EXX_DEV\\Consumos\\backend\\DBCAccesoDatos\\DBCPedidoVenta.cs",
+              "RelativeDocumentMoniker": "DBCAccesoDatos\\DBCPedidoVenta.cs",
+              "ToolTip": "C:\\EXX_DEV\\Consumos\\backend\\DBCAccesoDatos\\DBCPedidoVenta.cs",
+              "RelativeToolTip": "DBCAccesoDatos\\DBCPedidoVenta.cs",
+              "ViewState": "AQIAAFoBAAAAAAAAAAAwwGMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T22:05:10.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTOPedidoVentaDet.cs",
+              "DocumentMoniker": "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOPedidoVentaDet.cs",
+              "RelativeDocumentMoniker": "DTOEntidades\\DTOPedidoVentaDet.cs",
+              "ToolTip": "C:\\EXX_DEV\\Consumos\\backend\\DTOEntidades\\DTOPedidoVentaDet.cs",
+              "RelativeToolTip": "DTOEntidades\\DTOPedidoVentaDet.cs",
+              "ViewState": "AQIAAEMAAAAAZ2ZmZiYkwFQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T02:15:30.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\EXX_DEV\\Consumos\\backend\\TomaPedidosApi\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "TomaPedidosApi\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\EXX_DEV\\Consumos\\backend\\TomaPedidosApi\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "TomaPedidosApi\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAkAAAAYAAAAAEA7wB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:41:29.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BOCPedidoVenta.cs",
+              "DocumentMoniker": "C:\\EXX_DEV\\Consumos\\backend\\BOCNegocio\\BOCPedidoVenta.cs",
+              "RelativeDocumentMoniker": "BOCNegocio\\BOCPedidoVenta.cs",
+              "ToolTip": "C:\\EXX_DEV\\Consumos\\backend\\BOCNegocio\\BOCPedidoVenta.cs",
+              "RelativeToolTip": "BOCNegocio\\BOCPedidoVenta.cs",
+              "ViewState": "AQIAAGkAAAC0mZmZmdkkwHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:40:34.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\EXX_DEV\\Consumos\\backend\\TomaPedidosApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "TomaPedidosApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\EXX_DEV\\Consumos\\backend\\TomaPedidosApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "TomaPedidosApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:07:22.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBCSeguridad.cs",
+              "DocumentMoniker": "C:\\EXX_DEV\\Consumos\\backend\\DBCAccesoDatos\\DBCSeguridad.cs",
+              "RelativeDocumentMoniker": "DBCAccesoDatos\\DBCSeguridad.cs",
+              "ToolTip": "C:\\EXX_DEV\\Consumos\\backend\\DBCAccesoDatos\\DBCSeguridad.cs",
+              "RelativeToolTip": "DBCAccesoDatos\\DBCSeguridad.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAzwC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:07:22.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

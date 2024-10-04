@@ -1,0 +1,33 @@
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\obj\Release\BOCNegocio.csproj.AssemblyReference.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\obj\Release\BOCNegocio.csproj.CoreCompileInputs.cache
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\Etna.BOCNegocio.dll.config
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\Etna.BOCNegocio.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\Etna.BOCNegocio.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\DBCAccesoDatos.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\DTOEntidades.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\Newtonsoft.Json.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\System.Data.SqlClient.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\DBCAccesoDatos.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\DBCAccesoDatos.dll.config
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\DTOEntidades.pdb
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\Newtonsoft.Json.xml
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\bin\Release\System.Data.SqlClient.xml
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\obj\Release\BOCNegocio.csproj.CopyComplete
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\obj\Release\Etna.BOCNegocio.dll
+C:\EXXIS Desarrollos\TomaPedidoKamasa\backend\BOCNegocio\obj\Release\Etna.BOCNegocio.pdb
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Release\Etna.BOCNegocio.dll.config
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Release\Etna.BOCNegocio.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Release\Etna.BOCNegocio.pdb
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Release\DBCAccesoDatos.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Release\DTOEntidades.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Release\nJupiter.DataAccess.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Release\System.Data.Odbc.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Release\DBCAccesoDatos.pdb
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Release\DBCAccesoDatos.dll.config
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Release\DTOEntidades.pdb
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\bin\Release\System.Data.Odbc.xml
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\obj\Release\BOCNegocio.csproj.AssemblyReference.cache
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\obj\Release\BOCNegocio.csproj.CoreCompileInputs.cache
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\obj\Release\BOCNegocio.csproj.CopyComplete
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\obj\Release\Etna.BOCNegocio.dll
+C:\DEV_EXX\TomaPedido\backend\BOCNegocio\obj\Release\Etna.BOCNegocio.pdb

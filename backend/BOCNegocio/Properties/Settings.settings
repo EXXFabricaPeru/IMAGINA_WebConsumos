@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Etna.BOCNegocio.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Host" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">correo.etna.com.pe</Value>
+    </Setting>
+    <Setting Name="Asunto" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Estado de Cuenta</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">etnareportes@etna.com.pe</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">etnareportesetna</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
